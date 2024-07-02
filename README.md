@@ -61,13 +61,14 @@ Various plots are generated to visualize the clusters:
 * Bar Plots: Illustrate the distribution of genders and preferred categories within each cluster.
 * Histograms: Display the distribution of key features within each cluster.
 
-### Conclusion
-The clustering analysis has provided valuable insights into customer segmentation, highlighting distinct groups within the customer base. Each cluster exhibits unique demographic and behavioral characteristics, which can inform targeted marketing strategies and personalized customer engagement efforts. For example, younger, high-income customers in Cluster 0 show a strong preference for Electronics, while Cluster 1, consisting predominantly of higher-income males and other genders, is more interested in Sports products. By understanding these segments, businesses can optimize their marketing campaigns, improve product offerings, and enhance overall customer satisfaction, ultimately driving better business outcomes.
-
 ### Insights
 Key insights derived from the analysis:
 
-*Cluster 0: Largest customer segment with younger, higher-income customers who prefer Electronics.
-*Cluster 1: Predominantly higher-income males and others who prefer Sports.
-*Cluster 5: Diverse group of older, higher-income females and others with interests in Electronics and Sports.
-*Cluster 2: Mix of genders with lower incomes, preferring Home & Garden, Sports, and Electronics.
+* Cluster 0: Largest customer segment with younger, higher-income customers who prefer Electronics.
+* Cluster 1: Predominantly higher-income males and others who prefer Sports.
+* Cluster 5: Diverse group of older, higher-income females and others with interests in Electronics and Sports.
+* Cluster 2: Mix of genders with lower incomes, preferring Home & Garden, Sports, and Electronics.
+
+### Conclusion
+The clustering analysis has provided valuable insights into customer segmentation, highlighting distinct groups within the customer base. Each cluster exhibits unique demographic and behavioral characteristics, which can inform targeted marketing strategies and personalized customer engagement efforts. For example, younger, high-income customers in Cluster 0 show a strong preference for Electronics, while Cluster 1, consisting predominantly of higher-income males and other genders, is more interested in Sports products. By understanding these segments, businesses can optimize their marketing campaigns, improve product offerings, and enhance overall customer satisfaction, ultimately driving better business outcomes.
+
